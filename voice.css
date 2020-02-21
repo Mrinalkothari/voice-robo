@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: #1d1a4d;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 5rem;
+    color: #87472f;
+}
+
+.talk {
+border-radius: 100%;
+color: red;
+}
